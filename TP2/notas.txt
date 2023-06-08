@@ -1,0 +1,2 @@
+- Al finalizar el TP, experimentar con todas las imagenes de testeo (10000) y hacer analisis y comparaciones.
+- Es fundamental la teoria/practica de SVD para el TP (EJ 3,4,5)
