@@ -4,3 +4,6 @@
 CONSULTAS:
 
 -Recursion en SVD?
+-Epsilon en criterio de parada 
+(Porque cuando agrandamos epsilon tarda mas en converger 
+y el diferencia es mas grande)
