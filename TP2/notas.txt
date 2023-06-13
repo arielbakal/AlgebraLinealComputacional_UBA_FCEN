@@ -3,8 +3,4 @@
 
 CONSULTAS:
 
--Recursion en SVD?
--Epsilon en criterio de parada 
-(Porque cuando agrandamos epsilon tarda mas en converger 
-y el diferencia es mas grande)
--Una vez hecha la imagen promedio, al dividir por x los elementos de la matriz es posible tener numeros reales (no enteros como en un principio). Hay que redondearlos?
+-Epsilon en criterio de parada. (elegir un epsilon, puede ser el error de maquina)
