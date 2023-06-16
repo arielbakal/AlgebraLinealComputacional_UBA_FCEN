@@ -2,5 +2,3 @@
 - Es fundamental la teoria/practica de SVD para el TP (EJ 3,4,5)
 
 CONSULTAS:
-
--Epsilon en criterio de parada. (elegir un epsilon, puede ser el error de maquina)
