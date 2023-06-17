@@ -8,3 +8,8 @@ CONSULTAS:
 
 - EJ4.A : dimension de la matriz 785 × cantidad imagenes, 
 quiere decir que las filas de los csv tienen que estar en la matriz como columnas?
+
+- EJ4.C : Necesidad de multiplicar la matriz por 15 para poder apreciar la imagen
+
+- EJ4.D : -Por que las imagenes (columnas de M_i) generan las columnas de U_i?
+          -Verificar respuesta
