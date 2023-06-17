@@ -3,6 +3,9 @@
 
 TO DO :
 
+- Completar U, Z, V
+
+- Hacer funcion EJ4.B
 
 CONSULTAS:
 
