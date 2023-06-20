@@ -3,9 +3,10 @@
 
 TO DO :
 
-- Completar U, Z, V
-
-- Hacer funcion EJ4.B
+- Completar EJ4.C y D
+- Ejercicio 5
+- Limpiar codigo
+- Comentar
 
 CONSULTAS:
 
