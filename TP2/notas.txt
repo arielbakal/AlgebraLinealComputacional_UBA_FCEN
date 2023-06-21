@@ -3,8 +3,6 @@
 
 TO DO :
 
-- CORREGIR funcion EJ4.E
-- Completar EJ4.C y D
 - Ejercicio 5
 - Limpiar codigo
 - Comentar
@@ -20,3 +18,5 @@ quiere decir que las filas de los csv tienen que estar en la matriz como columna
           -Verificar respuesta
 
 - EJ4.E : -Por que la funcion modifica globalmente a U
+
+- Por que para un k=5 tengo mas precision que para un k=20?
