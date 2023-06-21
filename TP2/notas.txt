@@ -20,3 +20,7 @@ quiere decir que las filas de los csv tienen que estar en la matriz como columna
 - EJ4.E : -Por que la funcion modifica globalmente a U
 
 - Por que para un k=5 tengo mas precision que para un k=20?
+
+- Por que U guarda mucha info relevante de las imagenes
+
+
