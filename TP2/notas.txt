@@ -3,24 +3,13 @@
 
 TO DO :
 
-- Ejercicio 5
 - Limpiar codigo
 - Comentar
 
 CONSULTAS:
 
-- EJ4.A : dimension de la matriz 785 × cantidad imagenes, 
-quiere decir que las filas de los csv tienen que estar en la matriz como columnas?
+- Chequear en SVD criterio de parada
 
-- EJ4.C : Necesidad de multiplicar la matriz por 15 para poder apreciar la imagen
 
-- EJ4.D : -Por que las imagenes (columnas de M_i) generan las columnas de U_i?
-          -Verificar respuesta
-
-- EJ4.E : -Por que la funcion modifica globalmente a U
-
-- Por que para un k=5 tengo mas precision que para un k=20?
-
-- Por que U guarda mucha info relevante de las imagenes
 
 
