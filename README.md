@@ -11,9 +11,9 @@
 | Nro | Enunciado | Implementación |
 |-------|-----------|----------|
 | 1  | [Enunciado](https://github.com/arielbakal/uba_alc/blob/main/practicas/practica%201/practica1.pdf) | [Implementación](https://github.com/arielbakal/uba_alc/blob/main/practicas/practica%201/practica1.ipynb)  |
-| 2  |  |  |
-| 3  |  |  |
-| 4  |  |  |
+| 2  | [Enunciado](https://github.com/arielbakal/uba_alc/blob/main/practicas/practica2.pdf) |  |
+| 3  | [Enunciado](https://github.com/arielbakal/uba_alc/blob/main/practicas/practica3.pdf) |  |
+| 4  | [Enunciado](https://github.com/arielbakal/uba_alc/blob/main/practicas/practica4.pdf) |  |
 | 5  | [Enunciado](https://github.com/arielbakal/uba_alc/blob/main/practicas/practica%205/practica5.pdf) | [Implementación](https://github.com/arielbakal/uba_alc/blob/main/practicas/practica%205/practica5.ipynb) |
 | 6  | [Enunciado](https://github.com/arielbakal/uba_aed1/blob/main/guias/guia6.pdf) | [Implementación](https://github.com/arielbakal/uba_alc/blob/main/practicas/practica%206/practica6.ipynb) |
 | 7  | [Enunciado](https://github.com/arielbakal/uba_alc/blob/main/practicas/practica%207/practica7.pdf) | [Implementación](https://github.com/arielbakal/uba_alc/blob/main/practicas/practica%207/practica7.ipynb) |
